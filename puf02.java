@@ -1,11 +1,3 @@
-//다중 작업
-//버퍼 여러개
-//etc칸에 작가이름 만들기
-//메모에는 artist로 만든다.
-//gui로 변경
-//테그 검색 한번에 열기
-//랜덤줄 한번에 열기
-
 import sub.randomline;
 import sub.util.input;
 
