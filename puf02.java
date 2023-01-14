@@ -9,7 +9,7 @@
 import sub.randomline;
 import sub.util.input;
 
-public class f02vn
+public class puf02
 {	public static void main(String args[])
     {
 		int k=0;

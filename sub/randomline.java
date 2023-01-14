@@ -19,8 +19,6 @@ public class randomline
 	HashMap<String, LinkedList<indexedJSON>> Lines;
 
 	public randomline() throws Exception{
-		openweb.start_goodbyedpi();
-
 		p = providedata.build();
 		Lines = new HashMap<>();
 	}
@@ -451,7 +449,6 @@ public class randomline
 	
 	public void end(){
 		p.end();
-		openweb.end_goodbyedpi();
 		System.exit(0);
 	}
 
